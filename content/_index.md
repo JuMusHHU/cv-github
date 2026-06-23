@@ -34,7 +34,7 @@ sections:
         My work explores how morphological structure affects the planning and execution of language, with a particular interest in typing and speech duration. I also investigate the pragmatics of threatening and conflictive illocutions.
     design:
       columns: '1'
-  - block: collection
+  - block: content-collection
     id: papers
     content:
       title: Featured Publications
@@ -45,7 +45,7 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: collection
+  - block: content-collection
     content:
       title: Recent Publications
       text: ''
@@ -55,7 +55,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
+  - block: content-collection
     id: talks
     content:
       title: Recent & Upcoming Talks
