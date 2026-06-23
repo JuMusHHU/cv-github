@@ -64,6 +64,16 @@ sections:
           - events
     design:
       view: card
+  - block: content-collection
+    id: projects
+    content:
+      title: Projects
+      filters:
+        folders:
+          - projects
+    design:
+      view: article-grid
+      columns: 2
   - block: markdown
     id: teaching
     content:
