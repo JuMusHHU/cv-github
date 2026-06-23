@@ -14,7 +14,4 @@ featured: true
 hugoblox:
   ids:
     doi: "10.1007/s11145-024-10586-9"
-links:
-  - name: DOI
-    url: "https://doi.org/10.1007/s11145-024-10586-9"
 ---

@@ -10,7 +10,4 @@ abstract: ""
 authors:
   - me
 featured: true
-links:
-  - name: Publisher
-    url: "https://benjamins.com/catalog/pbns.284"
 ---

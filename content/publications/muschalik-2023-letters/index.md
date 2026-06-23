@@ -15,7 +15,4 @@ featured: false
 hugoblox:
   ids:
     doi: "10.1515/phon-2023-0012"
-links:
-  - name: DOI
-    url: "https://doi.org/10.1515/phon-2023-0012"
 ---
