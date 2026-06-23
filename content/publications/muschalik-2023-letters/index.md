@@ -12,7 +12,4 @@ abstract: ""
 authors:
   - me
 featured: false
-hugoblox:
-  ids:
-    doi: "10.1515/phon-2023-0012"
 ---
