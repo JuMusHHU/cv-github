@@ -13,7 +13,7 @@ education:
   - degree: PhD in English Linguistics
     institution: HHU Düsseldorf
     date: 2016
-    description: Thesis title: Threatening in English: Form and Function. Predicate: summa cum laude.
+    description: "Thesis title: Threatening in English: Form and Function. Predicate: summa cum laude."
   - degree: Magistra Artium (MA-equivalent)
     institution: Heinrich-Heine University Düsseldorf
     date: 2010
