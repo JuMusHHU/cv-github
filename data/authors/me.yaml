@@ -19,6 +19,10 @@ links:
     label: E-mail Me
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=Cgk3EagAAAAJ
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-4829-7179
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/jumus.bsky.social
 
 interests:
   - Psycholinguistics
