@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: resume-biography-3
     content:
-      username: julia
+      username: me
       text: |-
         I am an Acting Professor of English Language and Linguistics at HHU Düsseldorf. My research focuses on the intersection of psycholinguistics and pragmatics, specifically investigating (written) language production, perception, and the relation between speech and spelling.
       button:
@@ -28,7 +28,7 @@ sections:
         shape: circle
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-
         My work explores how morphological structure affects the planning and execution of language, with a particular interest in typing and speech duration. I also investigate the pragmatics of threatening and conflictive illocutions.
@@ -64,26 +64,22 @@ sections:
           - events
     design:
       view: card
-  - block: collection
-    id: news
+  - block: markdown
+    id: teaching
     content:
-      title: Recent News
+      title: 'Teaching'
       subtitle: ''
-      text: ''
-      page_type: blog
-      count: 10
-      filters:
-        author: ''
-        category: ''
-        tag: ''
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ''
-      offset: 0
-      order: desc
+      text: |-
+        Since 2010, I have taught a wide range of BA- and MA-level courses on both micro- and macro-linguistic topics, as well as methodological developments and issues. I have successfully supervised a number of BA- and MA-theses.
+
+        **Current courses (Summer 2026):**
+
+        - Word-Formation
+        - Examens- und Forschungskolloquium
+        - First words and foreign accents: Learning a second language
+        - Making meaning measurable: Experimental Pragmatics
+        - Statistics for Beginners
+        - Words don't mean things (people do)
     design:
-      view: card
-      spacing:
-        padding: [0, 0, 0, 0]
+      columns: '1'
 ---
