@@ -12,7 +12,7 @@ sections:
         I am an Acting Professor of English Language and Linguistics at HHU Düsseldorf. My research focuses on the intersection of psycholinguistics and pragmatics, specifically investigating (written) language production, perception, and the relation between speech and spelling.
       button:
         text: View University Profile
-        url: https://www.anglistik3.hhu.de/team/detailseite-muschalik
+        url: https://www.anglistik3.hhu.de/en/faculty/staff/dr-julia-muschalik
       headings:
         about: 'About Me'
         education: 'Education'
