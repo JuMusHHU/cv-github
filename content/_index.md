@@ -9,7 +9,7 @@ sections:
     content:
       username: me
       text: |-
-        I am an Acting Professor of English Language and Linguistics at HHU Düsseldorf. My research focuses on the intersection of psycholinguistics and pragmatics, specifically investigating (written) language production, perception, and the relation between speech and spelling.
+        I am currently Acting Professor of English Language and Linguistics at Heinrich Heine University Düsseldorf. My research investigates language production and processing, with a particular interest in how linguistic knowledge emerges from experience and how different types of information interact during language use.
       button:
         text: View University Profile
         url: https://www.anglistik3.hhu.de/en/faculty/staff/dr-julia-muschalik
@@ -31,7 +31,7 @@ sections:
       title: 'My Research'
       subtitle: ''
       text: |-
-        My work explores how morphological structure affects the planning and execution of language, with a particular interest in typing and speech duration. I also investigate the pragmatics of threatening and conflictive illocutions.
+        My work examines written language production and the relationship between writing and speech, including the interaction of phonological, orthographic, and morphological information across modalities. I also work on empirical pragmatics and, more recently, multimodal communication. Methodologically, I combine experimental, corpus-based, and quantitative approaches.
     design:
       columns: '1'
   - block: content-collection
