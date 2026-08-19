@@ -2,12 +2,12 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Julia Muschalik
+  display: Julia Muschalik
   given: Julia
   family: Muschalik
 status:
   icon: "👩🏻‍🔬"
-role: Acting Professor of English Language and Linguistics
+role: Linguist
 bio: |
   Julia Muschalik is Acting Professor of English Language and Linguistics at Heinrich-Heine-University Düsseldorf. Her research focuses on the psycholinguistics of writing, pragmatics and experimental methods.
 affiliations:
