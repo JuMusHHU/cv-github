@@ -2,7 +2,7 @@
 title: 'Hidden patterns, visible effects? Task structure and cue competition in morphographic spelling'
 date: 2026-04-15
 publishDate: 2026-06-23T00:00:00Z
-publication_types: ["manuscript"]
+publication_types: ["manuscript under review"]
 publication:
   name: " "
   publisher: " "
