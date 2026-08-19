@@ -6,7 +6,7 @@ publication_types: ["chapter"]
 publication:
   name: "Performativität in Sprache und Recht"
   publisher: "De Gruyter Mouton"
-abstract: "test"
+abstract: ""
 authors:
   - me
 featured: false
