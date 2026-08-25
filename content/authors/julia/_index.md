@@ -22,6 +22,5 @@ education:
     institution: University of Copenhagen
     date: 2009
 interests:
-  - Psycholinguistics (Written language production, Cross-modal language processing, Usage-based and experience-based learning, Morphological processing)
-  - Pragmatics (Speech acts, Empirical pragmatics, Impoliteness, Corpus-based discourse analysis, Multimodal Pragmatics)
+  - Written Language Production, Speech and Writing, Cross-modal Language Processing, Experience and Learning, Morphology, Empirical Pragmatics, Multimodal Communication, Corpus-based Discourse Analysis
 ---
