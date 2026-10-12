@@ -1,6 +1,6 @@
 ---
 title: Julia Muschalik
-role: Acting Professor of English Language and Linguistics
+role: PostDoc in English Language and Linguistics
 company: HHU Düsseldorf
 email: ''
 urls:
