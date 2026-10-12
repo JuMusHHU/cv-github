@@ -1,6 +1,6 @@
 ---
 title: Julia Muschalik
-role: PostDoc in English Language and Linguistics
+role: Linguist
 company: HHU Düsseldorf
 email: ''
 urls:
