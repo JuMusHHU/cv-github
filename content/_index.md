@@ -9,7 +9,7 @@ sections:
     content:
       username: me
       text: |-
-        I am currently Acting Professor of English Language and Linguistics at Heinrich Heine University Düsseldorf. My research investigates language production and processing, with a particular interest in how linguistic knowledge emerges from experience and how different types of information interact during language use.
+        I am a postdoctoral researcher in English Linguistics at the [Department of English and American Studies](https://www.anglistik3.hhu.de/) at Heinrich Heine University Düsseldorf, where I previously served as Acting Professor. My research explores how different types of linguistic knowledge shape language production and processing, and how language use, in turn, shapes linguistic knowledge.
       button:
         text: View University Profile
         url: https://www.anglistik3.hhu.de/en/faculty/staff/dr-julia-muschalik
@@ -34,17 +34,6 @@ sections:
         My work examines written language production and the relationship between writing and speech, including the interaction of phonological, orthographic, and morphological information across modalities. I also work on empirical pragmatics and, more recently, multimodal communication. Methodologically, I combine experimental, corpus-based, and quantitative approaches.
     design:
       columns: '1'
-  - block: content-collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
   - block: content-collection
     content:
       title: Recent Publications
